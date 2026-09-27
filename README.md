@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gayathri-Reddy874/multi-agent-document-intelligence/pulls)
 
 A Streamlit app that runs an uploaded text document through three agents in
-sequence — a summarizer, a sentiment classifier, and a heuristic consistency
+sequence - a summarizer, a sentiment classifier, and a heuristic consistency
 checker — and displays their combined output in a custom-designed UI.
 
 ---
