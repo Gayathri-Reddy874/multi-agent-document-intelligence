@@ -1,1 +1,13 @@
+streamlit==1.35.0
+transformers==4.41.1
+torch==2.3.0
+sentencepiece==0.2.0
+accelerate==0.30.1
+numpy==1.26.4
+pandas==2.2.2
+safetensors==0.4.3
+protobuf==4.25.3
+tokenizers==0.19.1
+huggingface_hub==0.23.0
+pytest==8.2.0
 
