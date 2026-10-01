@@ -44,7 +44,7 @@ checker - and displays their combined output in a custom-designed UI.
 
 Every agent implements the same `BaseAgent.process(text, context)` interface,
 so adding a new agent means writing one class and registering it in
-`Coordinator` — the UI doesn't need to change.
+`Coordinator` - the UI doesn't need to change.
 
 ## Features
 
