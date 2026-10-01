@@ -49,7 +49,7 @@ so adding a new agent means writing one class and registering it in
 ## Features
 
 - **Summarization** - abstractive summary via `facebook/bart-large-cnn`.
-- **Sentiment analysis** — 3-class sentiment via
+- **Sentiment analysis** - 3-class sentiment via
   `cardiffnlp/twitter-roberta-base-sentiment-latest`.
 - **Consistency check** — a transparent, deterministic keyword scorer that
   flags whether a document leans toward positive/operational language or
