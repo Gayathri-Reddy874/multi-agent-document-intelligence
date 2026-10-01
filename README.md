@@ -8,7 +8,7 @@
 
 A Streamlit app that runs an uploaded text document through three agents in
 sequence - a summarizer, a sentiment classifier, and a heuristic consistency
-checker — and displays their combined output in a custom-designed UI.
+checker - and displays their combined output in a custom-designed UI.
 
 ---
 
