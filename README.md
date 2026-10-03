@@ -148,6 +148,7 @@ MIT — see `LICENSE` (add one if you plan to open-source this).
 ## Author
 
 **Mallareddygari Gayathri**
+
 AI/ML Engineering graduate, based in Bengaluru, India.
 
 - GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
