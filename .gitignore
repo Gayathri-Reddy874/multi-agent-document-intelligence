@@ -1,11 +1,1 @@
-__pycache__/
-*.pyc
-*.pyo
-.venv/
-venv/
-.env
-.streamlit/
-*.egg-info/
-.pytest_cache/
-.DS_Store
 
