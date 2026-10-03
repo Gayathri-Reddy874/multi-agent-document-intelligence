@@ -60,7 +60,7 @@ so adding a new agent means writing one class and registering it in
   others still return results instead of crashing the whole request.
 - **Configurable** - model names and length limits live in `config.py` and
   can be overridden via environment variables.
-- **Custom UI** — a dark, ink-navy interface with a numbered pipeline strip
+- **Custom UI** - a dark, ink-navy interface with a numbered pipeline strip
   (the analysis genuinely runs summarize → sentiment → consistency check in
   that order) and bespoke result panels, rather than Streamlit's default
   theme and alert boxes.
