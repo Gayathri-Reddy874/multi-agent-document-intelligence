@@ -54,7 +54,7 @@ so adding a new agent means writing one class and registering it in
 - **Consistency check** - a transparent, deterministic keyword scorer that
   flags whether a document leans toward positive/operational language or
   risk-indicating language (latency, problems, etc.). This is **not** fact
-  verification against an external source — see the note in
+  verification against an external source - see the note in
   `agents/fact_checker.py`.
 - **Fault isolation** - if one agent fails (e.g. a model can't load), the
   others still return results instead of crashing the whole request.
