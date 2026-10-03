@@ -58,7 +58,7 @@ so adding a new agent means writing one class and registering it in
   `agents/fact_checker.py`.
 - **Fault isolation** - if one agent fails (e.g. a model can't load), the
   others still return results instead of crashing the whole request.
-- **Configurable** — model names and length limits live in `config.py` and
+- **Configurable** - model names and length limits live in `config.py` and
   can be overridden via environment variables.
 - **Custom UI** — a dark, ink-navy interface with a numbered pipeline strip
   (the analysis genuinely runs summarize → sentiment → consistency check in
