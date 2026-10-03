@@ -128,7 +128,7 @@ run nightly in CI, not on every commit) rather than the fast unit suite.
 - The "fact checker" is a keyword heuristic, not real fact verification —
   named for pipeline continuity, documented honestly in code and here.
 - No persistence: each analysis run is stateless and in-memory.
-- No authentication/rate-limiting — fine for a local demo, not for a public
+- No authentication/rate-limiting - fine for a local demo, not for a public
   deployment as-is.
 - Model downloads happen on first use (`@st.cache_resource` avoids
   re-downloading within a session, but the first request will be slow).
