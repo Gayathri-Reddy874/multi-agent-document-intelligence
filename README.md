@@ -151,4 +151,3 @@ MIT — see `LICENSE` (add one if you plan to open-source this).
 AI/ML Engineering graduate, based in Bengaluru, India.
 
 - GitHub: [@Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
-- LinkedIn: _add your profile link here_
