@@ -143,7 +143,7 @@ run nightly in CI, not on every commit) rather than the fast unit suite.
 
 ## License
 
-MIT — see `LICENSE` (add one if you plan to open-source this).
+MIT - see `LICENSE` (add one if you plan to open-source this).
 
 ## Author
 
