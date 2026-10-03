@@ -56,7 +56,7 @@ so adding a new agent means writing one class and registering it in
   risk-indicating language (latency, problems, etc.). This is **not** fact
   verification against an external source — see the note in
   `agents/fact_checker.py`.
-- **Fault isolation** — if one agent fails (e.g. a model can't load), the
+- **Fault isolation** - if one agent fails (e.g. a model can't load), the
   others still return results instead of crashing the whole request.
 - **Configurable** — model names and length limits live in `config.py` and
   can be overridden via environment variables.
